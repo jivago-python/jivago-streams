@@ -41,7 +41,7 @@ setup(
     ],
 
     packages=find_packages(
-        exclude=['contrib', 'docs', 'test', 'test.*' 'tests', 'tests.*']),
+        exclude=['tests', 'tests.*']),
 
     install_requires=[],
 )
