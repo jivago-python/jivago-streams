@@ -1,5 +1,6 @@
 # Jivago-Streams
 [![Build Status](https://travis-ci.com/jivago-python/jivago-streams.svg?branch=master)](https://travis-ci.com/jivago-python/jivago-streams)
+[![codecov](https://codecov.io/gh/jivago-python/jivago-streams/branch/master/graph/badge.svg)](https://codecov.io/gh/jivago-python/jivago-streams)
 
 Jivago-Streams brings the ability to chain functional-style operations on collections. 
 This package provides a single class (`Stream`), which is extracted from the Jivago web framework.
