@@ -1,1 +1,2 @@
 setuptools-git-version==1.0.3
+codecov==2.0.15
