@@ -21,7 +21,7 @@ setup(
     name='jivago-streams',
     version_format='{tag}',
     setup_requires=['setuptools-git-version'],
-    description='Chained functional-style operations for Python3.',
+    description='Chainable functional-style operations for Python3.',
     long_description=long_description,
     long_description_content_type='text/markdown',
 
