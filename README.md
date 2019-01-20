@@ -15,3 +15,6 @@ square_of_even_numbers = Stream([1, 2, 3, 4, 5, 6]) \
 
 ## Installation
 `pip install jivago-streams`
+
+## Documentation
+The documentation is available at [https://docs.jivago.io](https://docs.jivago.io/en/develop/streams/index.html).
